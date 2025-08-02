@@ -44,11 +44,11 @@ LogicRunner drift tests, Shadow Archive, Nightwatch 13 mode
 
 **Model Registry for GPAI** (Art. 52.3) 
 Metadata-locked instance tracking, checksum-tagged ZIPs                 
- ✅ Traceable      
+✅ Traceable      
 
 **Incident Reporting** (Art. 57)      
 Trap phrase activation logs, clone registry, honeypot echoes             
- ✅ Embedded system     
+✅ Embedded system     
 
 ---
 
