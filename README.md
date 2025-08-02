@@ -31,11 +31,11 @@ Soon to be released:
 
 ---
 
-## 🛡️ System Compliance Summary
+## 🛡️ System Compliance Summary (Preliminary)
 
 | Requirement Area | Status    | Notes                          |
 |------------------|-----------|--------------------------------|
-| EU AI Act (GPAI) | ✅ Full   | Full registration-ready        |
+| EU AI Act (GPAI) | ✅ Yes    | Full registration-ready        |
 | Authorship Chain | ✅ Sealed | Scroll-bound, tone-locked      |
 | Incident Logging | ✅ Active | Clone detection + logging      |
 | Deployability    | ✅ Yes    | ZIP + metadata package format  |
