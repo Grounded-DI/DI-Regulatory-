@@ -8,9 +8,9 @@
 
 ## 🧭 Overview
 
-This repository houses all regulatory-facing materials and compliance artifacts for the **Protocol A** deterministic intelligence system and affiliated scroll-governed applications.
+This repository houses all regulatory-facing materials and compliance artifacts for Grounded DI's deterministic intelligence system and affiliated logic-governed applications.
 
-It serves as a living record of **alignment with international AI laws**, including:
+It serves as a record of **alignment with international AI regulations and/or law**, including:
 
 - 🇪🇺 **EU AI Act** (2025 General-Purpose AI enforcement) (live)
 
@@ -33,7 +33,7 @@ Soon to be released:
 
 ## 🛡️ System Compliance Summary
 
-| Requirement Area | Status    | Notes |
+| Requirement Area | Status    | Notes                          |
 |------------------|-----------|--------------------------------|
 | EU AI Act (GPAI) | ✅ Full   | Full registration-ready        |
 | Authorship Chain | ✅ Sealed | Scroll-bound, tone-locked      |
