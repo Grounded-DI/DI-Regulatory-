@@ -37,7 +37,7 @@ Soon to be released:
 |------------------|-----------|--------------------------------|
 | EU AI Act (GPAI) | ✅ Full   | Full registration-ready        |
 | Authorship Chain | ✅ Sealed | Scroll-bound, tone-locked      |
-| Incident Logging | ✅ Active | Clone detection + trap phrases |
+| Incident Logging | ✅ Active | Clone detection + logging      |
 | Deployability    | ✅ Yes    | ZIP + metadata package format  |
 
 ---
